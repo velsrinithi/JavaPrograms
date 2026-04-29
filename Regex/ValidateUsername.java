@@ -5,7 +5,7 @@ class UsernameValidator {
     public static final String regularExpression ="^[a-zA-Z][0-9a-zA-Z_]{7,29}$";
 }
 
-public class Solution {
+public class ValidateUsername {
     private static final Scanner scan = new Scanner(System.in);
     
     public static void main(String[] args) {
